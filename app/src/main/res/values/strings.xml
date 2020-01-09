@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chef</string>
+    <string name="api_request_url">https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json</string>
+    <string name="appwidget_text">Widget of the Chef</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>
